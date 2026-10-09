@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>A crypto wallet that lives in your Discord.</b><br>
-  Hold, send and swap USDT, USDC, ETH, BNB, POL, SOL and LTC without leaving the chat.
+  Hold, send and swap USDT, USDC, ETH, BNB, POL, SOL, LTC and BTC without leaving the chat.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### What it does
 
-- 💰 **Hold**: deposit USDT, USDC or the native coin of five chains, and see one balance instead of five wallets.
+- 💰 **Hold**: deposit USDT, USDC or the native coin of six chains, and see one balance instead of six wallets.
 - ⚡ **Send**: tip another Discord user instantly and for free, or withdraw to any outside address for a flat, published fee.
 - 🔁 **Swap**: trade between any two supported assets, across chains, at a rate quoted before you commit.
 
@@ -39,6 +39,7 @@ No app to install, no extension, no seed phrase. Your Discord account is your ac
 | Polygon         |  POL   |  ✅  |  ✅  |
 | Solana          |  SOL   |  ✅  |  ✅  |
 | Litecoin        |  LTC   |  —   |  —   |
+| Bitcoin         |  BTC   |  —   |  —   |
 
 ### Open source
 
