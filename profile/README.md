@@ -20,7 +20,7 @@
 
 - 💰 **Hold**: deposit USDT, USDC or the native coin of six chains, and see one balance instead of six wallets.
 - ⚡ **Send**: tip another Discord user instantly and for free, or withdraw to any outside address for a flat, published fee.
-- 🔁 **Swap**: trade between any two supported assets, across chains, at a rate quoted before you commit.
+- 🔁 **Swap**: trade between supported assets, across chains, at a rate quoted before you commit.
 
 No app to install, no extension, no seed phrase. Your Discord account is your account.
 
